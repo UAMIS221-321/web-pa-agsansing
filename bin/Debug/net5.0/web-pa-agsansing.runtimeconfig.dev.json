@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/alliesans/.dotnet/store/|arch|/|tfm|",
+      "/Users/alliesans/.nuget/packages"
+    ]
+  }
+}
